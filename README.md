@@ -35,3 +35,5 @@ npm run lint
 ## Dependencies
 * Vue
 * Vue-Router
+* Vite
+* TailwindCss
