@@ -2,38 +2,42 @@
 
 # Vue-TailwindCss-Font-Viewer
 
-***Vue TailwindCss Font Viewer Project***
+**_Vue TailwindCss Font Viewer_**
 
 ## Technologies
-* **Html**
-* **Css**
-* **Js**
-* **Vue**
+
+-   **Html**
+-   **Css**
+-   **TailwindCss**
+-   **JavaScript**
+-   **Vue**
+
+## Dependencies
+
+-   Vue-Router
 
 ## Project Setup Process
 
-### install npm (for javascript packages)
+### Install npm (for npm packages)
+
 ```sh
 npm install
 ```
 
 ### to run project in development environment
+
 ```sh
 npm run dev
 ```
 
 ### Compile and Minify for Production
+
 ```sh
 npm run build
 ```
 
 ### Lint with
+
 ```sh
 npm run lint
 ```
-
-## Dependencies
-* Vue
-* Vue-Router
-* Vite
-* TailwindCss
