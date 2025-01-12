@@ -1,43 +1,41 @@
-![vue_tailwindcss_font_viewer_1366x768_poster](./git-images/vue_tailwindcss_font_viewer_1366x768_poster.png)
+# Font-Viewer-App-VueJs
 
-# Vue-TailwindCss-Font-Viewer
+A sleek and intuitive font exploration application built with Vue.js, designed to help users preview and compare different fonts in real time. This project allows users to customize text, adjust font sizes, and explore font styles effortlessly. Ideal for designers, developers, and anyone looking for a seamless way to experiment with typography.
 
-**_Vue TailwindCss Font Viewer_**
+## Technologies (languages & frameworks)
 
-## Technologies
+- Html
+- Css
+- JavaScript
+- VueJs
+- TailwindCss
 
--   **Html**
--   **Css**
--   **TailwindCss**
--   **JavaScript**
--   **Vue**
+## Packages & Libraries
 
-## Dependencies
+- Vue-Router
 
--   Vue-Router
+## Setup
 
-## Project Setup Process
-
-### Install npm (for npm packages)
+1. Install packages
 
 ```sh
 npm install
 ```
 
-### to run project in development environment
+1. Run Project
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Essential Terminal Commands
+
+- Type-Check, Compile and Minify for Production
 
 ```sh
 npm run build
 ```
 
-### Lint with
+## Pages
 
-```sh
-npm run lint
-```
+- Home [localhost:5173/](http://localhost:5173/)
